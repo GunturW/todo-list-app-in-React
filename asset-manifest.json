@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GunturW/todo-list-app-in-React/static/css/main.fb8bfd60.chunk.css",
+    "main.js": "/GunturW/todo-list-app-in-React/static/js/main.45f3703f.chunk.js",
+    "main.js.map": "/GunturW/todo-list-app-in-React/static/js/main.45f3703f.chunk.js.map",
+    "runtime-main.js": "/GunturW/todo-list-app-in-React/static/js/runtime-main.f4e15abc.js",
+    "runtime-main.js.map": "/GunturW/todo-list-app-in-React/static/js/runtime-main.f4e15abc.js.map",
+    "static/js/2.cf7e71be.chunk.js": "/GunturW/todo-list-app-in-React/static/js/2.cf7e71be.chunk.js",
+    "static/js/2.cf7e71be.chunk.js.map": "/GunturW/todo-list-app-in-React/static/js/2.cf7e71be.chunk.js.map",
+    "index.html": "/GunturW/todo-list-app-in-React/index.html",
+    "precache-manifest.66dd0a3220f119b7928b315feeece18e.js": "/GunturW/todo-list-app-in-React/precache-manifest.66dd0a3220f119b7928b315feeece18e.js",
+    "service-worker.js": "/GunturW/todo-list-app-in-React/service-worker.js",
+    "static/css/main.fb8bfd60.chunk.css.map": "/GunturW/todo-list-app-in-React/static/css/main.fb8bfd60.chunk.css.map",
+    "static/js/2.cf7e71be.chunk.js.LICENSE.txt": "/GunturW/todo-list-app-in-React/static/js/2.cf7e71be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4e15abc.js",
+    "static/js/2.cf7e71be.chunk.js",
+    "static/css/main.fb8bfd60.chunk.css",
+    "static/js/main.45f3703f.chunk.js"
+  ]
+}
